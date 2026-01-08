@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/hm-service/src/main/java/com/hmall/mapper/CartMapper.java" value="daa40a92-b989-4f80-af5b-b95aa84221cb" />
+    <file url="file://$PROJECT_DIR$/item-service/src/main/java/com/hmall/item/mapper/ItemMapper.java" value="daa40a92-b989-4f80-af5b-b95aa84221cb" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/java/com/hmall/user/mapper/UserMapper.java" value="daa40a92-b989-4f80-af5b-b95aa84221cb" />
+  </component>
+</project>
