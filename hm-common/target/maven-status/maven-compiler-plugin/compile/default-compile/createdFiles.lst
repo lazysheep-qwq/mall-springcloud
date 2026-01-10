@@ -1,5 +1,0 @@
-com\hmall\common\exception\BadRequestException.class
-com\hmall\common\config\JsonConfig.class
-com\hmall\common\exception\BizIllegalException.class
-com\hmall\common\exception\CommonException.class
-com\hmall\common\utils\CollUtils.class
